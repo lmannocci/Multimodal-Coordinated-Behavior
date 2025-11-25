@@ -1,4 +1,4 @@
-# Multimodal-Coordinated-Behavior
+# Multimodal Coordinated Behavior
 
 This repository contains the full pipeline and configuration files used to run the analysis on two separate datasets: **IO Russia** and **UK**.
 Each dataset has its own configuration file and execution entry point, allowing the user to run the workflow independently for each case.
