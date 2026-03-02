@@ -101,3 +101,25 @@ python main_uk.py
 * You may duplicate and adapt the current structure to support additional datasets.
 
 ---
+
+# Citation
+If you use this repository, please cite the following paper:
+
+Mannocci, L., Cresci, S., Magnani, M., Monreale, A., & Tesconi, M. (2026).
+Multimodal coordinated online behavior: Trade-offs and strategies.
+Information Sciences, 123125.
+[https://www.sciencedirect.com/science/article/pii/S0020025526000563](https://www.sciencedirect.com/science/article/pii/S0020025526000563)
+
+**Bibtex**
+```
+@article{mannocci2026multimodal,
+  title     = {Multimodal coordinated online behavior: Trade-offs and strategies},
+  author    = {Mannocci, Lorenzo and Cresci, Stefano and Magnani, Matteo and Monreale, Anna and Tesconi, Maurizio},
+  journal   = {Information Sciences},
+  pages     = {123125},
+  year      = {2026},
+  publisher = {Elsevier},
+  url       = {https://www.sciencedirect.com/science/article/pii/S0020025526000563}
+}
+```
+---
